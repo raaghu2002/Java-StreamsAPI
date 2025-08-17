@@ -3,41 +3,6 @@ Java Streams API 🚀
 This repository contains examples and practice problems on Java Streams API, showcasing different operations like Intermediate Operations, Terminal Operations, and Parallel Streams.
 
 
-📂 Project Structure
-Java-StreamsAPI
-│── src/
-│   ├── IntermediateOperations/
-│   │   ├── ConvertToStream.java
-│   │   ├── DistinctExample.java
-│   │   ├── FilterExample.java
-│   │   ├── FlatMapExample.java
-│   │   ├── LimitExample.java
-│   │   ├── MapExample.java
-│   │   ├── PeekExample.java
-│   │   ├── SkipExample.java
-│   │   └── SortedExample.java
-│   │
-│   ├── ParallelStream/
-│   │   └── ParallelStreamExample.java
-│   │
-│   └── TerminateOperations/
-│       ├── AnyMatchExample.java
-│       ├── CollectExample.java
-│       ├── CountExample.java
-│       ├── Employee.java
-│       ├── FindFirstExample.java
-│       ├── GroupingByExample.java
-│       ├── MinMaxExample.java
-│       ├── PartitioningByExample.java
-│       ├── ReduceExample.java
-│       └── SumExample.java
-│
-├── module-info.java
-├── .classpath
-├── .project
-└── .gitignore
-
-
 📝 Topics Covered
 
 🔹 Intermediate Operations
@@ -83,3 +48,4 @@ Java-StreamsAPI
 🤝 Contributions
 
 Feel free to fork this repo, add more examples, and create a pull request 🚀
+
